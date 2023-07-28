@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋 </h1>
 
-My name is Yining Mao! Welcome to my Github Page:
+My name is Yining ! Welcome to my Github Page:
 
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yiningmao/)
 - ✨ I am always open to connections and opportunities
