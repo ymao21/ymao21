@@ -6,7 +6,7 @@ My name is Yining ! Welcome to my Github Page:
 - ✨ I am always open to connections and opportunities
 - 💟 Pronouns: She/Her/Hers
 -  ⚡ I enjoy problem-solving and building things 
-- 🧗‍♀️🏂🏃‍♀️ I love all types of outdoor activities including snowboarding, hiking, rock climbing
+
 
 
 <h2 align="center"> Technologies</h2>
