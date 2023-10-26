@@ -5,8 +5,6 @@
 - 💟 Pronouns: She/Her/Hers
 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymao21&" alt="ymao21" /></p>
-
 <h2 align="center"> Technologies</h2>
 <div align="center">
 	<table>
