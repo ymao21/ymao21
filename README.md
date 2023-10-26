@@ -10,7 +10,7 @@ My name is Yining! Welcome to my Github Page:
 - 💟 Pronouns: She/Her/Hers
 
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center"> Technologies</h2>
 <div align="center">
