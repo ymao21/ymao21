@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/dNgK7Ws7y176U" width="100"/>
+  <img src="https://giphy.com/embed/dNgK7Ws7y176U](https://i.giphy.com/media/dNgK7Ws7y176U/giphy.webp)" width="100"/>
 </div>
  
 My name is Yining! Welcome to my Github Page:  
