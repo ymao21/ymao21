@@ -5,14 +5,6 @@
 - 💟 Pronouns: She/Her/Hers
 
  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yiningmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiningmao" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymao21&show_icons=true&locale=en&layout=compact" alt="ymao21" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymao21&" alt="ymao21" /></p>
 
 <h2 align="center"> Technologies</h2>
