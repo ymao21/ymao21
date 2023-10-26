@@ -10,7 +10,7 @@ My name is Yining! Welcome to my Github Page:
 - 💟 Pronouns: She/Her/Hers
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center"> Technologies</h2>
 <div align="center">
@@ -44,4 +44,9 @@ My name is Yining! Welcome to my Github Page:
 			<td><code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
 		</tr>
 	</table>
+</div>
+
+<h2 align="center"> Stats </h2>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
