@@ -49,5 +49,5 @@ My name is Yining! Welcome to my Github Page:
 <h2 align="center"> Stats </h2>
 <div align="center">
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </div>
