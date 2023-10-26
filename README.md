@@ -1,6 +1,8 @@
 <h1 align="center">  Hi there  </h1>  
+
+<iframe src="https://giphy.com/embed/dNgK7Ws7y176U" width="480" height="331" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homework-dNgK7Ws7y176U">via GIPHY</a></p>
  
-My name is Yining ! Welcome to my Github Page:  
+My name is Yining! Welcome to my Github Page:  
  
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yiningmao/)  
 - 💟 Pronouns: She/Her/Hers
