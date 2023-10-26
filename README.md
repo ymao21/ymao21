@@ -5,7 +5,6 @@
 - 💟 Pronouns: She/Her/Hers
 
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymao21" alt="ymao21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,8 +12,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymao21&show_icons=true&locale=en&layout=compact" alt="ymao21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymao21&show_icons=true&locale=en" alt="ymao21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymao21&" alt="ymao21" /></p>
 
