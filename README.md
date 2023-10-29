@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yining</h1>
-<h3 align="center">A passionate full-stack software engineer with a background in finance</h3>
+<h2 align="center">A passionate full-stack software engineer with a background in finance</h2>
 
 - 💻 I'm a dedicated problem solver, and I believe that coding is a powerful tool for tackling complex challenges. Whether it's building financial models, optimizing algorithms, or creating user-friendly applications, I thrive on turning ideas into practical, efficient, and elegant solutions.
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yiningmao/)  
