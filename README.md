@@ -4,7 +4,7 @@
 - 💻 I'm a dedicated problem solver, and I believe that coding is a powerful tool for tackling complex challenges. Whether it's building financial models, optimizing algorithms, or creating user-friendly applications, I thrive on turning ideas into practical, efficient, and elegant solutions.
 - 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yiningmao/) , Email: yiningmaomao@gmail.com
 - 💟 Pronouns: She/Her/Hers
-- Check out my [LinkedIn]([https://www.linkedin.com/in/yiningmao/](https://ymao21.github.io/#about))
+- Check out my [Portfolio](https://ymao21.github.io/#about)
 
 Feel free to reach out, collaborate, or share your thoughts—I'm always up for a good coding challenge and a great discussion! 🤓
 
