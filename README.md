@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<h3 align="center">
-MS Applied Data Science @ UChicago <br>
-AI • Machine Learning • Healthcare AI • Full Stack Development
-</h3>
-
-<h2 align="center">A passionate Data Scientist, Machine Learning Engineer, and a full-stack software engineer with a background in finance</h2>
 
 - 💻 I'm a dedicated problem solver, and I believe that coding is a powerful tool for tackling complex challenges. Whether it's building financial models, optimizing algorithms, or creating user-friendly applications, I thrive on turning ideas into practical, efficient, and elegant solutions.
 - 💟 Pronouns: She/Her/Hers
@@ -34,7 +28,7 @@ AI • Machine Learning • Healthcare AI • Full Stack Development
 </a>
 </p>
 
-Feel free to reach out, collaborate, or share your thoughts, I'm always up for a good coding challenge and a great discussion! 🤓
+Feel free to reach out, collaborate, or share your thoughts. I'm always up for a good coding challenge and a great discussion! 🤓
 
  
 ## Tech Stack
@@ -156,7 +150,7 @@ PostgreSQL • MySQL • Jupyter • VS Code • Postman
 </table>
 
 </div>
----
+
 <h2 align="center"> Stats </h2>
 <div align="center">
 	
