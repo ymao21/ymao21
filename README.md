@@ -48,3 +48,10 @@ Feel free to reach out, collaborate, or share your thoughts, I'm always up for a
 	
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github)
+
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ymao21&color=blue)
+
+</div>
