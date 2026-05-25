@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yining</h1>
+<h1 align="center">
+  Hi, I'm Yining 👋
+</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=MS+Applied+Data+Science+%40+UChicago;AI+%7C+Machine+Learning+%7C+Healthcare+AI;Building+LLMs%2C+Agents%2C+and+Multimodal+Systems;Hackathon+Winner+%7C+Full-Stack+Builder;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">
 MS Applied Data Science @ UChicago <br>
