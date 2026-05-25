@@ -47,6 +47,4 @@ Feel free to reach out, collaborate, or share your thoughts, I'm always up for a
 <div align="center">
 	
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ymao21&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymao21&layout=compact)
+![snake gif](https://github.com/ymao21/ymao21/blob/output/github-contribution-grid-snake.svg)
