@@ -47,4 +47,4 @@ Feel free to reach out, collaborate, or share your thoughts, I'm always up for a
 <div align="center">
 	
 
-![snake gif](https://github.com/ymao21/ymao21/blob/output/github-contribution-grid-snake.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github)
