@@ -46,5 +46,4 @@ Feel free to reach out, collaborate, or share your thoughts, I'm always up for a
 <h2 align="center"> Stats </h2>
 <div align="center">
 	
-![Yining's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymao21&show_icons=true&theme=default)</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymao21&layout=compact)
