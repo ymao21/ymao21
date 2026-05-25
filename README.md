@@ -1,10 +1,26 @@
 <h1 align="center">Hi 👋, I'm Yining</h1>
+
+<h3 align="center">
+MS Applied Data Science @ UChicago <br>
+AI • Machine Learning • Healthcare AI • Full Stack Development
+</h3>
+
 <h2 align="center">A passionate Data Scientist, Machine Learning Engineer, and a full-stack software engineer with a background in finance</h2>
 
 - 💻 I'm a dedicated problem solver, and I believe that coding is a powerful tool for tackling complex challenges. Whether it's building financial models, optimizing algorithms, or creating user-friendly applications, I thrive on turning ideas into practical, efficient, and elegant solutions.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/yiningmao/) , Email: yiningmaomao@gmail.com  ynmao@uchicago.edu
 - 💟 Pronouns: She/Her/Hers
 
+## Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yiningmao/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:yiningmaomao@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 Feel free to reach out, collaborate, or share your thoughts, I'm always up for a good coding challenge and a great discussion! 🤓
 
@@ -50,8 +66,3 @@ Feel free to reach out, collaborate, or share your thoughts, I'm always up for a
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github)
 
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=ymao21&color=blue)
-
-</div>
