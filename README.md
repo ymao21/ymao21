@@ -6,7 +6,7 @@
 - 💟 Pronouns: She/Her/Hers
 
 
-Feel free to reach out, collaborate, or share your thoughts—I'm always up for a good coding challenge and a great discussion! 🤓
+Feel free to reach out, collaborate, or share your thoughts, I'm always up for a good coding challenge and a great discussion! 🤓
 
  
 <h2 align="center"> Technologies</h2>
