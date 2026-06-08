@@ -13,8 +13,11 @@
 </p>
 
 
-- 💻 I'm a dedicated problem solver, and I believe that coding is a powerful tool for tackling complex challenges. Whether it's building financial models, optimizing algorithms, or creating user-friendly applications, I thrive on turning ideas into practical, efficient, and elegant solutions.
-- 💟 Pronouns: She/Her/Hers
+**About**
+
+Data science and machine learning engineer with a background in software engineering and finance. I like building useful things with data, from predictive models and ML workflows to full-stack applications.
+
+**Pronouns:** She/Her/Hers
 
 ## Connect With Me
 
