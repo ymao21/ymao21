@@ -127,13 +127,6 @@ Feel free to reach out, collaborate, or share your thoughts. I'm always up for a
 
 > *"The best way to predict the future is to build it."*
 
-
-<br>
-
-<sub> Open to full-time roles in AI Engineering, Full Stack, and Data Science</sub>
-
-<br>
-
 ![Wave](https://raw.githubusercontent.com/ymao21/ymao21/main/assets/wave.gif)
 
 </div>
