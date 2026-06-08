@@ -108,11 +108,7 @@ Data science and machine learning engineer with a background in software enginee
 </td>
   </tr>
 </table>
-	
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github" alt="Yining Mao GitHub profile summary" />
-</p>
 
 ## Portfolio Snapshot
 
@@ -141,6 +137,10 @@ Data science and machine learning engineer with a background in software enginee
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github" alt="Yining Mao GitHub profile summary" />
+</p>
+
 </div>
 
 ---
@@ -155,7 +155,6 @@ Data science and machine learning engineer with a background in software enginee
 
 <br>
 
-> *"The best way to predict the future is to build it."*
 
 ![Wave](https://raw.githubusercontent.com/ymao21/ymao21/main/assets/wave.gif)
 
