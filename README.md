@@ -173,23 +173,97 @@ Feel free to reach out, collaborate, or share your thoughts. I'm always up for a
 > *"The best way to predict the future is to build it."*
 
 
-```python
-while alive:
-    learn()
-    build()
-    ship()
-    repeat()
-```
-
 <br>
 
-<sub>⚡ Open to full-time roles in AI Engineering, Full Stack, and Data Science</sub>
+<sub> Open to full-time roles in AI Engineering, Full Stack, and Data Science</sub>
 
 <br>
 
 ![Wave](https://raw.githubusercontent.com/ymao21/ymao21/main/assets/wave.gif)
-<sub>Thanks for stopping by — go build something cool 🚀</sub>
 
 </div>
 
+## Featured Projects
+
+### [Classifying and Reimagining Dogs with Deep Learning](https://github.com/ymao21/dog-vision-deep-learning)
+
+End-to-end computer vision project for dog image understanding, replacement, and inpainting. Combines supervised classification, object detection, segmentation, pose estimation, geometric warping, GAN-style alignment, and diffusion-based image repair.
+
+**Highlights**
+- Fine-tuned a ResNet-50 multi-task classifier on 20K+ Stanford Dogs images.
+- Achieved 86.1% held-out breed classification accuracy across 120 breeds.
+- Built a pose-aware dog replacement pipeline using YOLO, SAM-style segmentation, affine warping, and diffusion refinement.
+- Compared U-Net, edge-guided CNN, and Stable Diffusion inpainting methods.
+
+**Tech:** Python, PyTorch, YOLO, SAM, Stable Diffusion, SDXL, Jupyter
+
+---
+
+### [Speech Emotion Recognition](https://github.com/ymao21/Speech-Emotion-Recognition-)
+
+Machine learning project for classifying emotional states from speech audio. Focuses on audio preprocessing, feature extraction, model training, and evaluation for speech-based emotion recognition.
+
+**Highlights**
+- Processed audio signals for supervised emotion classification.
+- Extracted speech/audio features for model input.
+- Trained and evaluated machine learning or deep learning models on labeled emotion data.
+- Explored how acoustic patterns can be used to infer human emotion.
+
+**Tech:** Python, audio processing, machine learning, classification, Jupyter
+
+---
+
+### [AI Industry Analysis using NLP Transformer Models](https://github.com/ymao21/AI-Industry-Analysis-using-NLP-Transformer-Models)
+
+NLP project analyzing AI industry text data with transformer-based models. Designed to extract insights from industry-related documents, articles, or company text using modern language modeling techniques.
+
+**Highlights**
+- Applied transformer models to analyze AI industry trends and language patterns.
+- Used NLP preprocessing and embedding/modeling workflows.
+- Organized text data into interpretable insights for industry analysis.
+- Demonstrates practical use of NLP for business and market intelligence.
+
+**Tech:** Python, NLP, transformers, Hugging Face, pandas, Jupyter
+
+---
+
+### [End-to-End RAG System for AI Research Papers](https://github.com/ymao21/end-to-end-RAG-system-for-AI-research-papers)
+
+Retrieval-Augmented Generation system for querying AI research papers. Builds a pipeline for document ingestion, chunking, embedding, retrieval, and answer generation over research content.
+
+**Highlights**
+- Built an end-to-end RAG workflow for AI research paper question answering.
+- Processed research documents into searchable chunks.
+- Used embeddings/vector search to retrieve relevant paper sections.
+- Connected retrieval results to an LLM-style answer generation flow.
+
+**Tech:** Python, RAG, embeddings, vector search, LLMs, NLP
+
+---
+
+### [Spotify Song Clustering Recommender](https://github.com/ymao21/spotify-song-clustering-recommender)
+
+Unsupervised learning project for grouping songs and recommending similar tracks using audio features. Shows how clustering and similarity search can support music recommendation.
+
+**Highlights**
+- Used Spotify/audio feature data to represent songs numerically.
+- Applied clustering to discover song groups with similar musical characteristics.
+- Built recommendation logic based on cluster membership or feature similarity.
+- Demonstrates unsupervised learning in a consumer recommendation setting.
+
+**Tech:** Python, scikit-learn, clustering, recommender systems, pandas, Spotify/audio features
+
+---
+
+### [Seasonal Influenza Forecasting Models](https://github.com/ymao21/seasonal-influenza-forecasting-models)
+
+Time-series forecasting project for modeling seasonal influenza patterns. Focuses on predicting flu activity using historical trends and forecasting methods.
+
+**Highlights**
+- Analyzed seasonal influenza data and temporal patterns.
+- Built forecasting models for public-health time-series prediction.
+- Compared model behavior across seasonal trends.
+- Demonstrates applied machine learning for healthcare and epidemiology.
+
+**Tech:** Python, time-series forecasting, machine learning, pandas, data visualization
 
