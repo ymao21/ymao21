@@ -124,7 +124,7 @@ Feel free to reach out, collaborate, or share your thoughts. I'm always up for a
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" /> 
 
 <br><br>
 
@@ -156,5 +156,40 @@ Feel free to reach out, collaborate, or share your thoughts. I'm always up for a
 	
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github)
+
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" />
+
+<br>
+
+### Let's build something that matters.
+
+<br>
+
+> *"The best way to predict the future is to build it."*
+
+
+```python
+while alive:
+    learn()
+    build()
+    ship()
+    repeat()
+```
+
+<br>
+
+<sub>⚡ Open to full-time roles in AI Engineering, Full Stack, and Data Science</sub>
+
+<br>
+
+![Wave](https://raw.githubusercontent.com/ymao21/ymao21/main/assets/wave.gif)
+<sub>Thanks for stopping by — go build something cool 🚀</sub>
+
+</div>
 
 
