@@ -110,8 +110,38 @@ Data science and machine learning engineer with a background in software enginee
 </table>
 	
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github" alt="Yining Mao GitHub profile summary" />
+</p>
 
+## Portfolio Snapshot
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <strong>Machine Learning & Deep Learning</strong><br>
+      Computer vision, NLP, speech emotion recognition, time-series forecasting, and recommendation systems.
+    </td>
+    <td align="left" width="50%">
+      <strong>Applied AI Systems</strong><br>
+      RAG pipelines, transformer-based analysis, retrieval workflows, model evaluation, and research-focused AI tools.
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <strong>Data Science & Analytics</strong><br>
+      Exploratory analysis, statistical modeling, clustering, forecasting, visualization, and insight generation.
+    </td>
+    <td align="left" width="50%">
+      <strong>Software Engineering</strong><br>
+      Full-stack applications, APIs, databases, reproducible projects, and deployment-ready workflows.
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
