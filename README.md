@@ -22,19 +22,20 @@ Data science and machine learning engineer with a background in software enginee
 ## Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yiningmao/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:yiningmaomao@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/yiningmao/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ynmao@uchicago.edu">
+    <img src="https://img.shields.io/badge/UChicago_Email-ynmao%40uchicago.edu-800000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:yiningmaomao@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-yiningmaomao%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-Feel free to reach out, collaborate, or share your thoughts. I'm always up for a good coding challenge and a great discussion! 🤓
-
- 
-<div align="center">
+<p align="center">
+  I’m always happy to connect about machine learning, data science, software projects, or interesting ideas.
+</p>
 
 ## Tech Stack
 
