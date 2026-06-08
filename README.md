@@ -30,7 +30,7 @@ Data science and machine learning engineer with a background in software enginee
 </p>
 
 <p align="center">
-  Say hi about ML, data science, research papers, software projects, or ideas you’re excited about.
+  Open to conversations about machine learning, data science, software projects, research ideas, and thoughtful collaborations.
 </p>
 
 ## Tech Stack
