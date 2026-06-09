@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  MS Applied Data Science @ UChicago
+  MS Applied Data Science @ UChicago 
 </p>
 
 <p align="center">
