@@ -1,6 +1,6 @@
 <h1 align="center">
   Yining Mao
-</h1>
+</h1> 
 
 <p align="center">
   MS Applied Data Science @ UChicago 
