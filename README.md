@@ -2,7 +2,7 @@
   Yining Mao
 </h1> 
 
-<p align="center">
+<p align="center"> 
   MS Applied Data Science @ UChicago 
 </p>
 
