@@ -137,9 +137,7 @@ Data science and machine learning engineer with a background in software enginee
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ymao21&theme=github" alt="Yining Mao GitHub profile summary" />
-</p>
+
 
 </div>
 
@@ -152,7 +150,7 @@ Data science and machine learning engineer with a background in software enginee
 <br>
 
 ### Let's build something that matters.
-
+ 
 <br>
 
 
