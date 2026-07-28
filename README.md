@@ -15,7 +15,7 @@
 
 **About**
 
-Data science and machine learning engineer with a background in software engineering and finance. I like building useful things with data, from predictive models and ML workflows to full-stack applications.
+Data science and machine learning engineer with experience in software engineering and finance. I like building useful things with data, from predictive models and ML workflows to full-stack applications.
 
 **Pronouns:** She/Her/Hers
 
