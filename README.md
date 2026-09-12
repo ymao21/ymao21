@@ -160,6 +160,20 @@ Data science and machine learning engineer with experience in software engineeri
 
 ## Featured Projects
 
+### [Pickly — Agentic Voice-to-Voice Product Discovery](https://github.com/ymao21/voice-product-discovery)
+
+Full-stack AI shopping assistant that turns natural voice or text requests into grounded product recommendations. Combines speech recognition, agentic orchestration, RAG, live web search, and text-to-speech in an interactive product discovery experience.
+
+**Highlights**
+- Built a LangGraph agent workflow for intent extraction, planning, retrieval, reranking, refinement, and answer validation.
+- Implemented MCP tools for hybrid retrieval across a 2,615-product Amazon catalog and live web search.
+- Added voice-to-voice interaction with Whisper transcription and TTS, plus stateful follow-up queries that preserve user preferences and constraints.
+- Designed a React interface with ranked product cards, comparison tables, citations, evidence chips, safety checks, and an auditable agent trace.
+
+**Tech:** Python, LangGraph, MCP, RAG, Chroma, FastAPI, React, Vite, Whisper, OpenAI
+
+---
+
 ### [Classifying and Reimagining Dogs with Deep Learning](https://github.com/ymao21/dog-vision-deep-learning)
 
 End-to-end computer vision project for dog image understanding, replacement, and inpainting. Combines supervised classification, object detection, segmentation, pose estimation, geometric warping, GAN-style alignment, and diffusion-based image repair.
