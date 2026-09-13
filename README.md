@@ -249,7 +249,7 @@ Unsupervised learning project for grouping songs and recommending similar tracks
 Time-series forecasting project for modeling seasonal influenza patterns. Focuses on predicting flu activity using historical trends and forecasting methods.
 
 **Highlights**
-- Analyzed seasonal influenza data and temporal patterns.
+- Analyzed seasonal influenza data and temporal patterns. 
 - Built forecasting models for public-health time-series prediction.
 - Compared model behavior across seasonal trends.
 - Demonstrates applied machine learning for healthcare and epidemiology.
